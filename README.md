@@ -4,4 +4,4 @@
 - Use CSS to style it.
 - Use JS for calculation part.
 
-<img src = "College Assignment for Calculator/Normal_alculator.png" alt = "Normal Calculator Photo.png">
+<img src = "Normal_calculator.png" alt = "Normal Calculator Photo.png">
